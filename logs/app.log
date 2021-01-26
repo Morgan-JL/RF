@@ -1,0 +1,112 @@
+2020.12.15 at 18:54:54 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.15 at 18:54:55 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.15 at 18:56:41 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.15 at 18:56:41 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.15 at 18:59:19 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.15 at 18:59:19 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:19:27 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:19:27 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:20:24 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:20:24 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:21:16 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:21:16 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:23:02 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:23:02 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:23:28 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:23:28 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:24:06 CST INFO  com.czx.web.context.RickApplication 37 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:24:06 CST INFO  com.czx.web.context.RickApplication 51 createBean - 包扫描
+2020.12.16 at 09:55:00 CST INFO  com.czx.web.context.RickApplication 39 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:55:00 CST INFO  com.czx.web.context.RickApplication 53 createBean - 包扫描
+2020.12.16 at 09:56:57 CST INFO  com.czx.web.context.RickApplication 39 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:56:57 CST INFO  com.czx.web.context.RickApplication 53 createBean - 包扫描
+2020.12.16 at 09:57:48 CST INFO  com.czx.web.context.RickApplication 39 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 09:57:48 CST INFO  com.czx.web.context.RickApplication 53 createBean - 包扫描
+2020.12.16 at 10:13:05 CST INFO  com.czx.web.context.RickApplication 42 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 10:13:05 CST INFO  com.czx.web.context.RickApplication 56 createBean - 包扫描
+2020.12.16 at 10:14:45 CST INFO  com.czx.web.context.RickApplication 41 init - 
+ ____   ___   ____  _  __           _     ____   ____
+|  _ \ |_ _| / ___|| |/ /          / \   |  _ \ |  _ \
+| |_) | | | | |    | ' /  _____   / _ \  | |_) || |_) |
+|  _ <  | | | |___ | . \ |_____| / ___ \ |  __/ |  __/
+|_| \_\|___| \____||_|\_\       /_/   \_\|_|    |_|
+
+2020.12.16 at 10:14:45 CST INFO  com.czx.web.context.RickApplication 55 createBean - 包扫描
